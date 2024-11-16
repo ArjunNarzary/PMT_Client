@@ -2,7 +2,7 @@
 
 ## This is frontend part of the project
 
-## Techstack user are ReactJS, TypeScript, TailwindCss, Shadcn
+## Techstack used are ReactJS, TypeScript, TailwindCss, ShadcnUI
 
 ## To run the project
 
